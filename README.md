@@ -1,4 +1,4 @@
-CALCULADORA TESTE
+<h1 align="center">CALCULADORA TESTE</h1>
 
 Desenvolvi essa calculadora como forma de estudo da linguagem Python.
 Escolhi um layout com cores do meu gosto e gostei do resultado.
